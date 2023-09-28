@@ -1,7 +1,7 @@
 <h1>Hi Traveller, I am <a href="https://www.fb.com/iTMasterOfficial/">Muhammad Saqib</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://github.com/iTMaster228/iTMaster228/blob/master/dp.png" width="230" />
 
-<a href="https://www.instagram.com/i___am___saqib"><img src="https://github.com/iTMaster228/iTMaster228/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.instagram.com/i___am___saqib"><img src="https://github.com/iTMaster228/iTMaster228/blob/main/logos/facebook.png" width="40" /></a>
 <a href="https://www.linkedin.com/in/iTMaster228"><img src="https://github.com/iTMaster228/iTMaster228/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://youtube.com/@pakflutterdev"><img src="https://github.com/iTMaster228/iTMaster228/blob/master/logos/youtube-logo.png" width="40" /></a>
 <a href="https://github.com/iTMaster228"><img src="https://github.com/iTMaster228/iTMaster228/blob/master/logos/github-logo.png" width="40" /></a>
