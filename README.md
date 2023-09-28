@@ -1,13 +1,13 @@
 <h1>Hi Traveller, I am <a href="https://www.fb.com/iTMasterOfficial/">Muhammad Saqib</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/dp.png" width="230" />
 
-<a href="https://www.instagram.com/i___am___saqib"><img src="https://github.com/iTMaster228/iTMaster228/main/logos/facebook.png" width="40" /></a>
-<a href="https://www.linkedin.com/in/iTMaster228"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/linkedin.png" width="40" /></a>
-<a href="https://youtube.com/@pakflutterdev"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://github.com/iTMaster228"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/itmasterofficial/"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:itsaqib228@gmail.com"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/iTMaster228"><img src="https://github.com/iTMaster228/iTMaster228/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/i___am___saqib"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/facebook.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/linkedin.png" width="40" /></a>
+<a href="https://youtube.com/@pakflutterdev"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/youtube-logo.png" width="40" /></a>
+<a href="https://github.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/itmasterofficial/"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/facebook.png" width="40" /></a>
+<a href="mailto:itsaqib228@gmail.com"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/twitter.png" width="40" /></a>
 
 ### A Tech Lead, iOS, Android Developer, Community Builder & a Traveler
 - 🙋‍♂️ Studied BS Biochemistry from [University of Agriculture], Faisalabad, Pakistan
