@@ -1,7 +1,8 @@
 <h1>Hi Traveller, I am <a href="https://www.fiverr.com/itsaqibdev">Muhammad Saqib</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/dp.png" width="230" />
 <a href="https://www.fiverr.com/itsaqibdev"><img src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" width="40" /></a>
-<a href="https://www.instagram.com/i___am___saqib"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/facebook.png" width="40" /></a>
+<a href="https://www.wa.me/+923156231228"><img src="https://seeklogo.com/images/W/whatsapp-logo-33F6A82887-seeklogo.com.png" width="40" /></a>
+<a href="https://www.instagram.com/i___am___saqib"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="40" /></a>
 <a href="https://www.linkedin.com/in/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/linkedin.png" width="40" /></a>
 <a href="https://youtube.com/@pakflutterdev"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/youtube-logo.png" width="40" /></a>
 <a href="https://github.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/github-logo.png" width="40" /></a>
