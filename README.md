@@ -11,9 +11,9 @@
 <a href="https://twitter.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/twitter.png" width="40" /></a>
 
 ### A Tech Lead, iOS, Android Developer, Community Builder & a Traveler
-- 🙋‍♂️ Studied BS Biochemistry from [University of Agriculture], Faisalabad, Pakistan
-- 🎮 Creating amazing games in [Unity3d][C#]
-- 💻 Creating awesome apps in <b>Flutter</b>,<b>Dart</b>, [Andrid Studio]
+- 🙋‍♂️ Studied BS Biochemistry from <b>University of Agriculture</b>, Faisalabad, Pakistan
+- 🎮 Creating amazing games in <b>Unity3d</b>,<b>C#</b>
+- 💻 Creating awesome apps in <b>Flutter</b>,<b>Dart</b>
 - ✍️ Android Reverse Engineering 
 - 📝 Ethical Hacking
 
