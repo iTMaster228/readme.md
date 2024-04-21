@@ -13,7 +13,7 @@
 ### A Tech Lead, iOS, Android Developer, Community Builder & a Traveler
 - 🙋‍♂️ Studied BS Biochemistry from [University of Agriculture], Faisalabad, Pakistan
 - 🎮 Creating amazing games in [Unity3d][C#]
-- 💻 Creating awesome apps in [Flutter][Dart]
+- 💻 Creating awesome apps in <b>Flutter</b>,<b>Dart</b>, [Andrid Studio]
 - ✍️ Android Reverse Engineering 
 - 📝 Ethical Hacking
 
@@ -31,8 +31,8 @@
 
 ### 📝 My GitHub Stats 
 
-![Noor's Github Profile Views](https://komarev.com/ghpvc/?username=itmaster228&color=blueviolet)
+![Noor's Github Profile Views](https://komarev.com/ghpvc/?username=itsaqibdev&color=blueviolet)
 <br/>
-[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=itmaster228&theme=gotham)](https://github.com/iTMaster228/github-readme-stats)
+[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=itsaqibdev&theme=gotham)](https://github.com/iTMaster228/github-readme-stats)
 
 https://www.fiverr.com/itsaqibdev
