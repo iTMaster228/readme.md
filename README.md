@@ -3,9 +3,9 @@
 <a href="https://www.fiverr.com/itsaqibdev"><img src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" width="40" /></a>
 <a href="https://wa.link/yks0k7"><img src="https://seeklogo.com/images/W/whatsapp-logo-33F6A82887-seeklogo.com.png" width="40" /></a>
 <a href="https://www.instagram.com/i___am___saqib"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="40" /></a>
-<a href="https://www.linkedin.com/in/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/linkedin.png" width="40" /></a>
+<a href="https://pk.linkedin.com/in/muhammad-saqib-792985226"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/linkedin.png" width="40" /></a>
 <a href="https://youtube.com/@pakflutterdev"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/youtube-logo.png" width="40" /></a>
-<a href="https://github.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/github-logo.png" width="40" /></a>
+<a href="https://github.com/itsaqibdev"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/itmasterofficial/"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/facebook.png" width="40" /></a>
 <a href="mailto:itsaqib228@gmail.com"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/iTMaster228"><img src="https://raw.githubusercontent.com/iTMaster228/iTMaster228/main/logos/twitter.png" width="40" /></a>
